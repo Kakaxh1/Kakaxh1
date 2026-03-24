@@ -1,7 +1,7 @@
 # kkaxh1
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&size=22&lines=Security+is+not+future%2C+security+is+mindset;Breaking+Systems+Since+Day+1;Think+Like+Attacker%2C+Not+Tool" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&size=22&lines=Security+is+not+a+feature%2C+security+is+a+mindset;Breaking+Systems+Since+Day+1;Think+Like+Attacker%2C+Not+Tool" />
 </p>
 
 <p align="center">
@@ -89,9 +89,9 @@ if (access_control == weak):
 
 ## Philosophy
 
-Security is not future.
+Security is not a feature.
 
-Security is mindset.
+Security is a mindset.
 
 ---
 
