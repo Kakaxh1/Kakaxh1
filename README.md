@@ -1,118 +1,39 @@
-# kkaxh1
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&size=22&lines=+Security+is+not+a+feature%2C+security+is+a+mindset;Breaking+Systems+Since+Day+1;Think+Like+Attacker%2C+Not+Tool" />
-</p>
+# KKAXH1
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=kkaxh1&fontColor=00FF00&stroke=00FF00&animation=fadeIn" />
-</p>
+**Offensive Security • Red Teaming • VAPT**
+
+</div>
 
 ---
 
-## System Status
+I explore systems the way attackers do.
+Not for chaos. For clarity.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkaxh1&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkaxh1&theme=chartreuse-dark&hide_border=true" />
-</p>
+Breaking assumptions.
+Testing trust boundaries.
+Finding the small flaws that quietly become major security failures.
 
----
+Most vulnerabilities are not technical mistakes.
+They are misplaced trust.
 
-## Activity Graph
+Security is not about collecting tools like Pokémon.
+It is about understanding why the system believed the lie.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkaxh1&theme=react-dark&hide_border=true&area=true&custom_title=Live+Attack+Activity" />
-</p>
+I work across Web, API, Mobile, Active Directory, Cloud, and real-world attack paths where business logic fails louder than firewalls.
 
----
-
-## Animated Snake Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+Attackers do not hack machines first.
+They hack trust.
 
 ---
 
-## Attack Surface
-
-```
-Web       ███████████░░░░░░
-API       █████████████░░░░
-Mobile    ██████████░░░░░░░
-AD        ██████████████░░░
-Cloud     ███████░░░░░░░░░░
-```
+[Portfolio](https://github.com/kkaxh1) · [GitHub](https://github.com/kkaxh1)
 
 ---
 
-## Live Recon Feed
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Authentication_Bypass-000000?style=for-the-badge&logo=hackaday&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Target-APIs-000000?style=for-the-badge&logo=fastapi&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Mindset-Attacker-000000?style=for-the-badge&logo=probot&logoColor=00FF00" />
-</p>
+### — TRUST IS THE FIRST VULNERABILITY —
 
----
-
-## Core Logic
-
-```
-if (system.trusts_user_input):
-    exploit()
-
-if (validation.exists):
-    bypass()
-
-if (access_control == weak):
-    escalate()
-```
-
----
-
-## Arsenal
-
-* Burp Suite
-* ffuf
-* nuclei
-* Katana
-* Arjun
-* Impacket
-* NetExec
-* BloodHound
-* Frida
-* Objection
-
----
-
-## Philosophy
-
-Security is not a feature.
-
-Security is a mindset.
-
----
-
-## Current Objectives
-
-* Breaking authentication flows
-* API abuse at scale
-* Mobile runtime manipulation
-* AD privilege escalation chains
-* Cloud misconfiguration exploitation
-
----
-
-## Connection
-
-```
-Target > Recon > Weakness > Chain > Impact
-```
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=footer&animation=twinkling"/>
-</p>
+</div>
