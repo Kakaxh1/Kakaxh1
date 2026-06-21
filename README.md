@@ -32,11 +32,11 @@ They hack trust.
 [Portfolio](https://bhavy-morvadiya.netlify.app/) · [GitHub](https://github.com/kkaxh1)
 
 </div>
+
 ---
 
 <div align="center">
 
 ### — TRUST IS THE FIRST VULNERABILITY —
 
-</div>
 </div>
