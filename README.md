@@ -25,15 +25,16 @@ I work across Web, API, Mobile, Active Directory, Cloud, and real-world attack p
 
 Attackers do not hack machines first.
 They hack trust.
+
+---
 <div align="center">
----
-
 [Portfolio](https://bhavy-morvadiya.netlify.app/) · [GitHub](https://github.com/kkaxh1)
-
+</div>
 ---
 
-
+<div align="center">
 
 ### — TRUST IS THE FIRST VULNERABILITY —
 
+</div>
 </div>
