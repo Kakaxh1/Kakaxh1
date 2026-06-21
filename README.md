@@ -28,7 +28,7 @@ They hack trust.
 <div align="center">
 ---
 
-[Portfolio](bhavy-morvadiya.netlify.app) · [GitHub](https://github.com/kkaxh1)
+[Portfolio](https://bhavy-morvadiya.netlify.app/) · [GitHub](https://github.com/kkaxh1)
 
 ---
 
