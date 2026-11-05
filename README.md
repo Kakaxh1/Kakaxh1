@@ -16,7 +16,6 @@
   <a href="https://www.linkedin.com/in/bhavy-morvadiya"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://tryhackme.com/p/Kakaxhi"><img src="https://img.shields.io/badge/TRYHACKME-000000?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>&nbsp;
   <a href="https://profile.hackthebox.com/profile/019e417b-e3bc-72b5-ab4e-167a0e759f02"><img src="https://img.shields.io/badge/HACKTHEBOX-000000?style=flat-square&logo=hackthebox&logoColor=white" alt="HackTheBox" /></a>&nbsp;
-  <a href="mailto:bhavyamorvadiya@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
