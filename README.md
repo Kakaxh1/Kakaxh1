@@ -183,8 +183,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c1c1c&height=100&section=footer" width="100%" alt="Footer Banner" />
-
-<sub>Bhavya Morvadiya (kkaxh1) • Offensive Security Consultant • Red Teamer</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c1c1c&height=120&section=footer&text=Bhavya%20Morvadiya%20(kkaxh1)%20%E2%80%A2%20Offensive%20Security%20Consultant%20%E2%80%A2%20Red%20Teamer&fontSize=16&fontColor=888888&fontAlignY=70" width="100%" alt="Footer Banner" />
 
 </div>
